@@ -18,5 +18,4 @@ Archivos del proyecto
 Abre tu terminal (Git Bash) en la carpeta del proyecto:
 
 Para abrir el menú interactivo y probarlo manualmente:
-bash
 python main.py
